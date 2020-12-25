@@ -17,6 +17,7 @@ public class AddTwo {
         System.out.println("请输入第二个数：");
         //第二个数
         int b = sc.nextInt();
+        //结果
         System.out.println("结果是：" +  addTwo(a,b));
     }
 }
