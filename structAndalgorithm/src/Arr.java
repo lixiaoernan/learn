@@ -103,7 +103,7 @@ public class Arr {
             }
         }
 
-        //合并两个数组
+        //合并两个数组实现重新组合
         int f = 0;
         nums3 =  Arrays.copyOf(nums1,nums1.length+nums2.length);
         for(int i = nums1.length;i<nums3.length;i++){
