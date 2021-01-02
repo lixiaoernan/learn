@@ -28,7 +28,7 @@ public class Arr {
         }
 
         System.out.println();
-        
+
         //foreach|增强for循环
         for(int a:arr3){
             System.out.print(a+"\t");
